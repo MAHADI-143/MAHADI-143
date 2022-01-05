@@ -12,7 +12,8 @@
 
 <h3><b><i> Github Statistics :
 
-<a href="https://github.com/MAHADI-143"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MAHADI-143&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+</i></b></h3>
+<a href="https://github.com/MAHADI-143"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MAHADI-143&row=2&column=3 noframe=true&title=Followers,Stars,Commit,Repository,Issues, PullRequest"/></a>
 
 - 😏 𝐍𝐀𝐌𝐄:- 𝐌𝐀𝐇𝐀𝐃𝐈 𝐇𝐀𝐒𝐀𝐍 𝐀𝐅𝐑𝐈𝐃𝐈
 
