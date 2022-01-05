@@ -55,3 +55,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahadi-143&show_icons=true&theme=dark&locale=en" alt="mahadi-143" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadi-143&theme=dark" alt="mahadi-143" /></p>
+
+### Profile Visitors
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MAHADI-143.visitor-badge&left_color=blue&right_color=yellow)
+<br />
+
+[![MAHADI-143's github activity graph](https://activity-graph.herokuapp.com/graph?username=MAHADI-143&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/MAHADI-143/github-readme-activity-graph)
