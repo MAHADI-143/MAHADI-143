@@ -1,3 +1,9 @@
+<div align="center">
+<h2> MAHADI IS HERE </h2>
+</div> <br>
+
+&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=36&multiline=true&width=970&height=300&lines=It’s+Not%2C+A+%3Cname%2F%3E+It’s+%3CBrand%2F%3E!)](https://git.io/typing-svg)
+
 <h1 align="center">Hi, I'm Mahadi Hasan Afridi</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
