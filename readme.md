@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadi-143&label=Profile%20views&color=eb4d3d&style=flat-square" alt="mahadi-143" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahadi-143" alt="mahadi-143" /></a> </p>
+</i></b></h3>
+<a href="https://github.com/MAHADI-143"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MAHADI-143&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 - 😏 𝐍𝐀𝐌𝐄:- 𝐌𝐀𝐇𝐀𝐃𝐈 𝐇𝐀𝐒𝐀𝐍 𝐀𝐅𝐑𝐈𝐃𝐈
 
