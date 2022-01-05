@@ -1,10 +1,17 @@
-<div align="center">
-<h2> MAHADI IS HERE </h2>
-</div> <br>
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+  &nbsp; Welcome to Mahadi profile! &nbsp;
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+</h3>
 
-&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=36&multiline=true&width=970&height=300&lines=It’s+Not%2C+A+%3Cname%2F%3E+It’s+%3CBrand%2F%3E!)](https://git.io/typing-svg)
+___
 
-<h1 align="center">Hi, I'm Mahadi Hasan Afridi</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=im+mahadi+hasan;afridi+it's+not+a+just+name!;it's+a+brand+well+come+to!;my+github+profile+loveu+all!&font=Fira%20Code&center=true&width=380&height=50">
+</p>
+
+___
+
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadi-143&label=Profile%20views&color=eb4d3d&style=flat-square" alt="mahadi-143" /> </p>
