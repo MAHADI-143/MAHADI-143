@@ -83,5 +83,4 @@ ___
 
 <h2><i>Activity Graph</i></h2>
 
-<a href="https://github.com/SonuKumar81800/">
-  <img align="center" height="280px" src="https://activity-graph.herokuapp.com/graph?username=MAHADI-143&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&custom_title=MAHADI%20HASAN%20AFRIDI%27s%20Statistics" alt="Sonu Kumar" />
+[![Kshitij's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=MAHADI-143&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
