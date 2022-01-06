@@ -6,8 +6,8 @@
 
 ___
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=im+mahadi+hasan;afridi+it's+not+a+just+name!;it's+a+brand+well+come+to!;my+github+profile+loveu+all!&font=Fira%20Code&center=true&width=380&height=50">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Mahadi+Hasan+Afridi;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
+
 </p>
 
 ___
