@@ -74,7 +74,8 @@ ___
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadi-143&show_icons=true&theme=dark&locale=en&layout=compact" alt="mahadi-143" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahadi-143&show_icons=true&theme=dark&locale=en" alt="mahadi-143" /></p>
+<p align="center"><a href="https://github.com/MAHADI-143">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MAHADI-143&show_icons=true&include_all_commits=true&theme=gotham&cache_seconds=3200&hide_border=true" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadi-143&theme=dark" alt="mahadi-143" /></p>
 
