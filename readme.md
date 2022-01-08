@@ -86,3 +86,10 @@ ___
 <h2><i>Activity Graph</i></h2>
 
 [![Kshitij's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=MAHADI-143&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<a href="https://github.com/MAHADI-143/BD-NUMB3R"><img title="BD-NUMB3R" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=BD-NUMB3R&theme=gotham"></a>
+<a href="git clone https://github.com/MAHADI-143/SPEED-FDCL.git"><img title="SPEED-FDCL" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=SPEED-FDCL&theme=gotham"></a>
+<a href="git clone https://github.com/MAHADI-143/BD-EIGHT.git"><img title="BD-EIGHT" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=BD-EIGHT&theme=gotham"></a>
+<a href="git clone https://github.com/MAHADI-143/PK-BD.git"><img title="PK-BD" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=PK-BD&theme=gotham"></a>
+<a href="git clone https://github.com/MAHADI-143/BEST-FDCLON.git"><img title="BEST-FDCLON" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=BEST-FDCLON&theme=gotham"></a>
+<a href="git clone https://github.com/MAHADI-143/Pakistan.git"><img title="Pakistan" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=Pakistan&theme=gotham"></a>
