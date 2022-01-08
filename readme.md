@@ -21,30 +21,48 @@ ___
 
 </i></b></h3>
 <a href="https://github.com/MAHADI-143"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MAHADI-143&row=2&column=3 noframe=true&title=Followers,Stars,Commit,Repository,Issues, PullRequest"/></a>
-___
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
 - 😏 𝐍𝐀𝐌𝐄:- 𝐌𝐀𝐇𝐀𝐃𝐈 𝐇𝐀𝐒𝐀𝐍 𝐀𝐅𝐑𝐈𝐃𝐈
-___
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
 - 😎 𝐀𝐆𝐄:- 18
-___
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
 - 📕 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:- 𝐄𝐍𝐓𝐄𝐑 2𝐍𝐃 𝐘𝐄𝐀𝐑
-___
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 - ❤ 𝐋𝐎𝐕𝐄𝐑:- 𝐀𝐌𝐌𝐎
-___
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 - 👉 𝐈𝐍𝐒𝐋𝐈𝐑𝐀𝐓𝐈𝐎𝐍:- 𝐌𝐘𝐒𝐄𝐋𝐅
-___
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 - 🤲🏻 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- 𝐈𝐒𝐋𝐀𝐌
-___
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
 - 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [𝐌𝐀𝐇𝐀𝐃𝐈 𝐇𝐀𝐒𝐀𝐍 𝐀𝐅𝐑𝐈𝐃𝐈](https://www.facebook.com/4FR1D1.143)
-___
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
 - 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐏𝐀𝐆𝐄:- [𝐁𝐃 𝐓𝐄𝐑𝐌𝐔𝐗 𝐓𝐔𝐓𝐎𝐑𝐈𝐀𝐋](https://www.facebook.com/BD-Termux-Tutorialシ-100443515499094/)
-___
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
 - 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [𝐌𝐀𝐇𝐀𝐃𝐈-143](https://github.com/MAHADI-143)
-___
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
 - ⚡ Fun fact **I think I am funny**
-___
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
 
