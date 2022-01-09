@@ -66,11 +66,10 @@
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
 
-<p align="left">
-<a href="https://fb.com/4fr1d1.143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="4fr1d1.143" height="30" width="40" /></a>
-<a href="https://instagram.com/its_afridi.143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_afridi.143" height="30" width="40" /></a>
-
-[![Github](https://img.shields.io/badge/Github-MAHADI-143dimgray?style=flat-square&logo=github)](https://github.com/MAHADI-143/)<br>[![Telegram](https://img.shields.io/badge/Telegram-MAHADI-blue?style=flat-square&logo=telegram)](https://t.me/Mahadi_Hasan_Afridi)<br>
+[![Instagram](https://img.shields.io/badge/IG-%40Mahadi.Hasan.Afridi-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/its_afridi.143)
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/4FR1D1.143)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/4FR1D1)
+[![Github](https://img.shields.io/badge/Github-MAHADI-143green?style=for-the-badge&logo=github)](https://github.com/MAHADI-143)
 
 ### ⚙️ &nbsp; Language & programming
 
