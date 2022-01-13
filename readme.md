@@ -145,3 +145,5 @@
 <a href="https://github.com/MAHADI-143/PK-BD.git"><img title="PK-BD" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=PK-BD&theme=gotham"></a>
 
 <a href="https://github.com/MAHADI-143/SPEED-FDCL.git"><img title="SPEED-FDCL" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=SPEED-FDCL&theme=gotham"></a>
+
+<a href="https://github.com/MAHADI-143/PAK.git"><img title="PAK" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=PAK&theme=gotham"></a>
