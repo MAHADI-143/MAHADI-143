@@ -19,10 +19,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadi-143&label=Profile%20views&color=eb4d3d&style=flat-square" alt="mahadi-143" /> </p>
 </i></b></h3>
 
-<h3><b><i> Github Statistics :
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/MAHADI-143"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MAHADI-143&theme=monokai"></a>
 
-</i></b></h3>
-<a href="https://github.com/MAHADI-143"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MAHADI-143&row=2&column=3 noframe=true&title=Followers,Stars,Commit,Repository,Issues, PullRequest"/></a>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
