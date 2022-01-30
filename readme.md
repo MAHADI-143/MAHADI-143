@@ -114,3 +114,40 @@
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
 
 [![Kshitij's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=MAHADI-143&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<a href="https://github.com/MAHADI-143/Mahadi-11.git"><img title="Mahadi-11" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=Mahadi-11&theme=gotham"></a>
+
+<a href="https://github.com/MAHADI-143/BD-PK.git"><img title="BD-PK" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=BD-PK&theme=gotham"></a>
+
+<a href="https://github.com/MAHADI-143/Mahadi-9.git"><img title="Mahadi-9" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=Mahadi-9&theme=gotham"></a>
+
+<a href="https://github.com/MAHADI-143/Mahadi-8D.git"><img title="Mahadi-8D" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=Mahadi-8D&theme=gotham"></a>
+
+<a href="https://github.com/MAHADI-143/Mahadi-7.git"><img title="Mahadi-7" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=Mahadi-7&theme=gotham"></a>
+
+<a href="https://github.com/MAHADI-143/Mahadi-Six.git"><img title="Mahadi-Six" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=Mahadi-Six&theme=gotham"></a>
+
+<a href="https://github.com/MAHADI-143/Mahadi-All.git"><img title="Mahadi-All" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=Mahadi-All&theme=gotham"></a>
+
+<a href="https://github.com/MAHADI-143/Mahadi-Afg.git"><img title="Mahadi-Afg" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=Mahadi-Afg&theme=gotham"></a>
+
+<a href="https://github.com/MAHADI-143/Just-Now.git"><img title="Just-Now" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=Just-Now&theme=gotham"></a>
+
+<a href="https://github.com/MAHADI-143/Mahadi-Now.git"><img title="Mahadi-Now" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=Mahadi-Now&theme=gotham"></a>
+
+<a href="https://github.com/MAHADI-143/World-FD.git"><img title="World-FD" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=World-FD&theme=gotham"></a>
+
+<a href="https://github.com/MAHADI-143/Mahadi-3x.git"><img title="Mahadi-3x" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=Mahadi-3x&theme=gotham"></a>
+
+<a href="https://github.com/MAHADI-143/HIGH-SPEED.git"><img title="HIGH-SPEED" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=HIGH-SPEED&theme=gotham"></a>
+
+<a href="https://github.com/MAHADI-143/FRIEND-CHECKER.git"><img title="FRIEND-CHECKER" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=FRIEND-CHECKER&theme=gotham"></a>
+
+<a href="https://github.com/MAHADI-143/MAHADI-BEST.git"><img title="MAHADI-BEST" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=MAHADI-BEST&theme=gotham"></a>
+
+<a href="https://github.com/MAHADI-143/Pakistan.git"><img title="Pakistan" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=Pakistan&theme=gotham"></a>
+
+<a href="https://github.com/MAHADI-143/PK.git"><img title="Mahadi-PK" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=PK&theme=gotham"></a>
+
+<a href="https://github.com/MAHADI-143/NUMBER-PK.git"><img title="NUMBER-PK" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHADI-143&repo=NUMBER-PK&theme=gotham"></a>
