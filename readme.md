@@ -1,6 +1,5 @@
 ![982C0A74-EA77-4DD9-A867-46FFF491444F](https://user-images.githubusercontent.com/79738922/152801936-cae5020c-d394-495d-8f41-9339fbc18102.jpeg)
 
-![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594 (1)](https://user-images.githubusercontent.com/79738922/150628863-e161ecb3-06fe-4656-be20-9122ed533309.gif)
 
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
