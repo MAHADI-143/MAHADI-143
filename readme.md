@@ -116,3 +116,32 @@
 
 [![Kshitij's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=MAHADI-143&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</a>
+<a href="https://github.com/MAHADI-143/Mahadi-Pro"><img title="Mahadi-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-143&repo=Mahadi-Pro&theme=vision-friendly-dark">
+
+</a>
+<a href="https://github.com/MAHADI-143/2009"><img title="2009" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-143&repo=2009&theme=vision-friendly-dark">
+
+</a>
+<a href="https://github.com/MAHADI-143/Mahadi-2k9"><img title="Mahadi-2k9" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-143&repo=Mahadi-2k9&theme=vision-friendly-dark">
+
+</a>
+<a href="https://github.com/MAHADI-143/NUMBER-PK"><img title="NUMBER-PK" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-143&repo=NUMBER-PK&theme=vision-friendly-dark">
+
+</a>
+<a href="https://github.com/MAHADI-143/Mahadi-Afg"><img title="Mahadi-Afg" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-143&repo=Mahadi-Afg&theme=vision-friendly-dark">
+
+</a>
+<a href="https://github.com/MAHADI-143/World-FD"><img title="World-FD" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-143&repo=World-FD&theme=vision-friendly-dark">
+
+</a>
+<a href="https://github.com/MAHADI-143/Mahadi-3x"><img title="Mahadi-3x" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-143&repo=Mahadi-3x&theme=vision-friendly-dark">
+
+</a>
+<a href="https://github.com/MAHADI-143/FRIEND-CHECKER"><img title="FRIEND-CHECKER" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-143&repo=FRIEND-CHECKER&theme=vision-friendly-dark">
+
+</a>
+<a href="https://github.com/MAHADI-143/HIGH-SPEED"><img title="HIGH-SPEED" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-143&repo=HIGH-SPEED&theme=vision-friendly-dark">
+
+</a>
+<a href="https://github.com/MAHADI-143/CHECK"><img title="CHECK" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-143&repo=CHECK&theme=vision-friendly-dark">
