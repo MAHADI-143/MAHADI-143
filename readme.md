@@ -114,7 +114,8 @@
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
 
-[![Kshitij's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=MAHADI-143&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/MAHADI-143/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=MAHADI-143&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </a>
 <a href="https://github.com/MAHADI-143/Mahadi-Pro"><img title="Mahadi-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-143&repo=Mahadi-Pro&theme=vision-friendly-dark">
