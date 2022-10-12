@@ -1,3 +1,4 @@
+![miniGif_20221012223706](https://user-images.githubusercontent.com/79738922/195400131-41369d85-6f22-4f3f-abd0-c2f6a60331d9.gif)
 
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
