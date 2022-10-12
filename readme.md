@@ -1,4 +1,5 @@
-<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+![miniGif_20221012223706](https://user-images.githubusercontent.com/79738922/195397099-c470f994-d9b5-4ad6-96b6-cc0d1a744a63.gif)
+
 
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
