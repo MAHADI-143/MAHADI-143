@@ -33,7 +33,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 📕 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:- 𝐄𝐍𝐓𝐄𝐑 2𝐍𝐃 𝐘𝐄𝐀𝐑
+- 📕 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:- 𝐄𝐍𝐓𝐄𝐑 2𝐍𝐃 𝐘𝐄𝐀𝐑 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
