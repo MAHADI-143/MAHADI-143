@@ -25,7 +25,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 😏 𝐍𝐀𝐌𝐄:- 𝐌𝐀𝐇𝐀𝐃𝐈 𝐇𝐀𝐒𝐀𝐍 𝐀𝐅𝐑𝐈𝐃𝐈
+- 😏 𝐍𝐀𝐌𝐄:- 𝐌𝐀𝐇𝐀𝐃𝐈 𝐇𝐀𝐒𝐀𝐍 𝐀𝐅𝐑𝐈𝐃𝐈 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
