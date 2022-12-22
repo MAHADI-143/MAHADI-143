@@ -29,7 +29,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 😎 𝐀𝐆𝐄:- 18
+- 😎 𝐀𝐆𝐄:- 18 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -145,3 +145,4 @@
 
 </a>
 <a href="https://github.com/MAHADI-143/CHECK"><img title="CHECK" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-143&repo=CHECK&theme=vision-friendly-dark">
+
