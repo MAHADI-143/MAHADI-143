@@ -106,7 +106,8 @@
 </table>
 <br>
 
-### Profile Visitors
+### Profile Visitor
+
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MAHADI-143.visitor-badge&left_color=blue&right_color=yellow)
 <br />
