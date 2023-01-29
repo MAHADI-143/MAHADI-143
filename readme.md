@@ -5,16 +5,9 @@
 </h3>
 <img src="https://user-images.githubusercontent.com/79738922/215358334-f326af7b-5a43-4a05-a693-0dc9c6d4398b.gif" width="150" height="270" align="left">
 <center>
-<img src="https://img.shields.io/badge/IG-%40Mahadi.Hasan.Afridi-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/its_afridi.143" width="140" height="20" align="left">
-<center>
-<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://fb.com/4FR1D1.143"width="140" height="40" align="left">
-<center>
-<img src="https://img.shields.io/badge/Chat-Messenger-yellow?style=for-the-badge&logo=messenger)](https://m.me/4FR1D1.143"width="140" height="30" align="left">
-<center>
-<img src="https://img.shields.io/badge/Github-MAHADI-143green?style=for-the-badge&logo=github)](https://github.com/MAHADI-143"width="140" height="30" align="left">
-<center>
-<img src="https://img.shields.io/badge/Youtube-MAHADI-143green?style=for-the-badge&logo=youtube)](https://youtube.com/@MAHADI-143"width="140" height="30" align="left">
-<center>
+<a href="https://Instagram.com/mahadi_oo" target="_blank"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/instagram.png" alt="alt text" width="75" height="75"></a> 
+<a href="https://t.me/Mahadi_143"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/telegram.png" alt="alt text" width="75" height="75"></a>
+<a href="https://www.facebook.com/4FR1D1.143" target="_blank"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/facebook.png" alt="alt text" width="75" height="75"></a> <a href="https://youtube.com/@MAHADI-143"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/youtube.png" alt="alt text" width="75" height="75"></a> 
 <img src="https://visitor-badge.glitch.me/badge?page_id=MAHADI-143.visitor-badge&left_color=yellow&right_color=black" width="140" height="27" align="left">
 <center>
 <a href="https://github.com/MAHADI-143"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MAHADI-143&theme=monokai"></a>
