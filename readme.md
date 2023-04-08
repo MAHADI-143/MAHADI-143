@@ -27,6 +27,8 @@
   </tr>
 </table>
 <br>
-<a href="https://github.com/MAHADI-143/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MAHADI-143&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+
+<p align="center">
+<a href="https://github.com/mdnuruzzamanKALLOL/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdnuruzzamanKALLOL&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
