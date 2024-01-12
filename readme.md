@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/79738922/215358334-f326af7b-5a43-4a05-a693-0dc9c6d4398b.gif" width="50" height="90" align="left">
+<img src="https://user-images.githubusercontent.com/79738922/215358334-f326af7b-5a43-4a05-a693-0dc9c6d4398b.gif" width="100" height="170" align="left">
 <center>
  
 <a href="https://Instagram.com/mahadi_oo" target="_blank"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/instagram.png" alt="alt text" width="40" height="40"></a> 
