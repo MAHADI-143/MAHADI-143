@@ -1,3 +1,12 @@
+![1675760832285](https://user-images.githubusercontent.com/79738922/217200618-d42f4040-d13e-4b5a-8f79-e828d6fc8f1e.png)
+
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
+    Welcome To Mahadi's Profile  
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
+</h3>
+
+<center>
 <img src="https://user-images.githubusercontent.com/79738922/215358334-f326af7b-5a43-4a05-a693-0dc9c6d4398b.gif" width="100" height="180" align="right">
 <center>
  
@@ -8,28 +17,9 @@ __𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴__🩵🩷💖💙💜🖤🩶
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&random=false&width=435&lines=MAHADI+HASAN+AFRIDI;IT'S+NOT+A+NAME;IT'S+BRAND+BROTHER)](https://git.io/typing-svg)
  
-### P𝗥𝗢𝗙𝗜𝗟𝗘 𝗩𝗜𝗦𝗜𝗧𝗢𝗥𝗦..
- 
-![Visitor Count](https://profile-counter.glitch.me/{MAHADI-XD}/count.svg)
-<br />
- 
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MAHADI-143&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
- 
-<div align="center">
-  <h3> ☄️THANKS FOR VISIT☄️ </h3>
-</div>
 
-
-
-![1675760832285](https://user-images.githubusercontent.com/79738922/217200618-d42f4040-d13e-4b5a-8f79-e828d6fc8f1e.png)
-<h3 align="center">
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
-    Welcome To Mahadi's Profile  
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
-</h3>
-<img src="https://user-images.githubusercontent.com/79738922/215358334-f326af7b-5a43-4a05-a693-0dc9c6d4398b.gif" width="150" height="270" align="right">
-<center>
 <a href="https://Instagram.com/mahadi_oo" target="_blank"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/instagram.png" alt="alt text" width="81" height="81"></a> 
 <a href="https://t.me/Mahadi_143"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/telegram.png" alt="alt text" width="81" height="81"></a>
 <a href="https://www.facebook.com/4FR1D1.143" target="_blank"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/facebook.png" alt="alt text" width="81" height="81"></a> <a href="https://youtube.com/@MAHADI-143"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/youtube.png" alt="alt text" width="81" height="81"></a> 
