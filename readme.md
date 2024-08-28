@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/79738922/215358334-f326af7b-5a43-4a05-a693-0dc9c6d4398b.gif" width="100" height="180" align="right">
 <center>
  
-<a href="https://Instagram.com/mahadi_oo" target="_blank"><img src="https://github.com/MAHADI-143/blob/main/Image/instagram.png" alt="alt text" width="81" height="81"></a> 
+<a href="https://Instagram.com/its_mahade_broh" target="_blank"><img src="https://github.com/MAHADI-143/blob/main/Image/instagram.png" alt="alt text" width="81" height="81"></a> 
 <a href="https://t.me/Mahadi_143"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/telegram.png" alt="alt text" width="81" height="81"></a>
 <a href="https://www.facebook.com/4FR1D1.143" target="_blank"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/facebook.png" alt="alt text" width="81" height="81"></a> <a href="https://youtube.com/@MAHADI-143"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/youtube.png" alt="alt text" width="81" height="81"></a> 
  
