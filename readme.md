@@ -28,8 +28,8 @@ __𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴__🩵🩷💖💙💜🖤🩶
 
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://astra-intelligence.github.io/github-stats-card/"> <img src="https://buses-ordinance-verse-prev.trycloudflare.com/card?user=MUHIB-143" alt ="MAHADI HASAN AFRIDI's GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://astra-intelligence.github.io/github-stats-card/"> <img src="https://buses-ordinance-verse-prev.trycloudflare.com/card?user=MAHADI-143" alt ="Top Languages"/></td>
+    <td valign="top"><a href="https://astra-intelligence.github.io/github-stats-card/"> <img src="https://east-read-linear-actress.trycloudflare.com/card?user=MUHIB-143" alt ="MAHADI HASAN AFRIDI's GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://astra-intelligence.github.io/github-stats-card/"> <img src="https://east-read-linear-actress.trycloudflare.com/card?user=MAHADI-143" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
