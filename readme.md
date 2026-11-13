@@ -28,8 +28,8 @@ __𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴__🩵🩷💖💙💜🖤🩶
 
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/MUHIB-143/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=MUHIB-143&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="MAHADI HASAN AFRIDI's GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/MAHADI-143/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHADI-143&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    <td valign="top"><a href="https://astra-intelligence.github.io/github-stats-card/"> <img src="https://cancel-tampa-holding-sea.trycloudflare.com/card?user=MUHIB-143" alt ="MAHADI HASAN AFRIDI's GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://astra-intelligence.github.io/github-stats-card/"> <img src="https://cancel-tampa-holding-sea.trycloudflare.com/card?user=MAHADI-143" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
